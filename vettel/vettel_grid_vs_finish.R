@@ -124,4 +124,4 @@ p1
 # Consider using ggside package? https://cran.r-project.org/web/packages/ggside/vignettes/ggside_basic_usage.html
 
 
-ggsave("images/vettel_scatter.png", p1, width = 30, height = 30, dpi = 300, scaling = 5)
+ggsave("images/vettel_scatter.png", p1, width = 10, height = 10, dpi = 300, scaling = 2)
